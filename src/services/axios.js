@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'http://www.rodrigodacosta.com.br/',
+  baseURL: 'http://www.apirest.rodrigodacosta.com.br/',
 });
